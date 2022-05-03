@@ -1,0 +1,13 @@
+body {
+	
+	background:linear-gradient(#dcabff, #abfffb, #abffba);
+	font-size: 18px;
+	/*position: relative;*/
+	height: 100%;
+	text-align: center;
+	color: black;
+	font-family: 'Oleo Script', cursive;
+	
+}
+html {
+	height: 100%;
